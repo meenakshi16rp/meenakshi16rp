@@ -52,15 +52,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 - *Email:* [your-email@example.com](mailto:meenakshi16rp@gmail.com)
