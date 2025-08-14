@@ -54,9 +54,9 @@
 
 ## 🤝 Let's Connect!
 
-- *Email:* [your-email@example.com](mailto:meenakshi16rp@gmail.com)
-- *LinkedIn:* [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/meenakshi-rakesh144/)
-- *GitHub:* [github.com/your-github-username](https://github.com/meenakshi16rp)
+- *Email:* [meenakshi16rp@gmail.com](mailto:meenakshi16rp@gmail.com)
+- *LinkedIn:* [linkedin.com/in/meenakshi-rakesh144/](https://www.linkedin.com/in/meenakshi-rakesh144/)
+- *GitHub:* [github.com/meenakshi16rp](https://github.com/meenakshi16rp)
 
 > *"I believe in building tools that empower communities and preserve knowledge. Let’s connect and create impact together!"*
 
