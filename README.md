@@ -19,7 +19,7 @@
 
 - 🎓 *Student:* BTech in Computer Science (AI & ML)
 - 🌞 *Focus Areas:* AI for social good, EdTech Innovation
-- 📚 *Current Projects:* Cultural heritage archiving platform, Cross-generational knowledge transfer platform, Women empowerment marketplace, Solar panel investment analysis tool
+- 📚 *Current Projects:* Visual analysis of mental stress detection, Cultural heritage archiving platform, Cross-generational knowledge transfer platform, Solar panel investment analysis tool
 - 🛠️ *Tools Used:* Firebase, Flask, PyTorch, HTML/CSS
 - 🧠 *Learning:* Reinforcement Learning, LLMs, Semi-supervised Learning
 - 🤝 *Open to:* Internships, hackathons, research collaborations
